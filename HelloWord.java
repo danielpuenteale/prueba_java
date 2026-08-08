@@ -1,3 +1,5 @@
+// Punto de entrada obligatorio: sin este método, Java no puede iniciar la ejecución del programa.
+
 public class HelloWord {
     public static void main(String[] args) {
         
@@ -31,7 +33,7 @@ public class HelloWord {
 
         // 4. Operadores unarios
 
-        int b = 5;
+        int b = 3;
         System.out.println(+b); // Operador unario positivo
         System.out.println(-b); // Operador unario negativo
         System.out.println(++b); // Incremento en 1
