@@ -85,5 +85,11 @@ public class HelloWord {
         System.out.println("Primer caracter del nombre: " + name.charAt(0));
         System.out.println("Primer caracter del apellido: " + surname.charAt(0));
 
+        //12. Substring
+        System.out.println("Subcadena del nombre: " + name.substring(2, 4));
+
+
+    
+
     } 
 }
