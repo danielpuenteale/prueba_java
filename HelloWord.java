@@ -137,5 +137,7 @@ public class HelloWord {
 
         // Comparar contenido exacto de dos cadenas (equals)
         System.out.println("¿El apellido es igual a 'Puente'?: " + surname.equals("Puente"));
+
+        
     } 
 }
